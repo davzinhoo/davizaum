@@ -425,7 +425,6 @@ padding: 0px 168px 0px 260px;
  width: 260px !important;
  margin-right: 0px !important;
  margin-bottom: 0px;
- opacity: 0.6;
  }
 }
 @media screen and (max-width: 1080px) {
@@ -660,7 +659,6 @@ padding: 0px 168px 0px 260px;
 
 .davigustavo{
   width: 270px;
-  opacity: 0.6;
 }
 .eumesmo{
 
